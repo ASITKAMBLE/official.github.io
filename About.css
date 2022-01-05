@@ -1,0 +1,101 @@
+:root{
+    --voilet: #ff4081;
+    --orange: orange;
+}
+
+
+body{
+    background-image: url("about image/kuka\ p.jpg"),url("about image/kuka.png"),url("about image/pallet\ with\ workpiece.png"),url("about image/robotic\ amr\ with\ pallet.png"),url("about image/industry\ 2.jpeg"),url("about image/industry\ 1.jpeg"),url("about image/1.3.JPG"),url("about image/1.2.JPG"),url("about image/1.1.JPG"),url("image/asit\ 2.png");
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size: 300px,1100px,600px,800px,800px,1000px,100px,85px,100px,200px;
+    background-position: 1170px 3550px,20px 3400px,900px 2700px,50px 2700px,700px 2000px ,0px 1100px,1100px 505px,910px 510px,730px 510px,400px 220px;
+    margin: 1450px 20px;
+}
+a{
+    font-size: 20px;
+    font-family: lato,sans-serif;
+    margin: 3000px 200px 300px 1400px;
+    text-decoration: none;
+    color:violet;
+}
+pre{
+    color: black;
+    font-family: lato,sans-serif;
+    font-size: 20px;
+    margin: 300px 590px;
+    font-weight: bold;
+}
+pre::after{
+    transition:all ease-in-out 550ms;
+}
+
+pre:hover::after{
+        width: 20%;
+    }
+
+pre:hover{
+    color: var(--voilet);
+
+}
+h1{
+    font-family: lacto,sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 180px;
+    margin-top: -1390px;
+    margin-left: 500px;
+}
+h2{
+    font-family: lacto,sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 680px;
+    margin-top: -180px;
+    color: rgb(236, 151, 40);
+}
+h3{
+    font-size: 30px;
+    font-family: lacto,sans-serif;
+    font-weight: 20px;
+    margin-top: -300px;
+    margin-left: 40px;
+}
+h4{
+    font-size: 20px;
+    margin-left: 750px;
+}
+span{
+    color: coral;
+}
+div{
+    background-size: 20px;
+}
+o{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.nam{
+    margin: 400px 680px;
+}
+.inf h2{
+    font-size: 50px;
+    font-family: lacto,sans-serif;
+    color: coral;
+    margin: -400px 30px 20px 1000px;
+}
+.inf span{
+    font-size: 50px;
+    color: black;
+}
+.inf h3{
+    font-size: 20px;
+    font-family: lacto,sans-serif;
+    margin: 100px 200px 200px 1100px;
+}
+.inf h4{
+    font-size: 20px;
+    font-family: lacto,sans-serif;
+    margin: -120px 200px 300px 80px;
+    word-spacing: 2px;
+}

@@ -1,0 +1,49 @@
+body{
+    background-image: url("photography images/1.jpg"),
+    url("photography images/2.jpg"),
+    url("photography images/3.jpg"),
+    url("photography images/4.jpg"),
+    url("photography images/5.jpg"),
+    url("photography images/6.jpg"),
+    url("photography images/7.jpg"),
+    url("photography images/8.jpg"),
+    url("photography images/9.jpg"),
+    url("photography images/10.jpg");
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size: 1600px;
+    background-position: center 700px,center 1500px,center 2300px,center 3100px,center 3900px,center 4700px,center 5500px,center 6300px,center 7100px,center 7900px;
+    margin: 8500px 500px;
+    
+}
+.information{
+    margin-top: 20%;
+    margin-right: 50%;
+    width: 15px;
+    font-family: lacto,sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+.pho{
+    margin-left: -3000%;
+    margin-top: -1500%;
+}
+    
+
+h3{
+    margin: 300px 5000px;
+}
+h1{
+    height: 10%;
+    margin-top: 200px;
+    margin-left: -400px;
+}
+.homee{
+    margin-top: -2400%;
+    margin-left: 6000%;
+}
+a{
+    text-decoration: none;
+    color: coral;
+    width: 20px;
+    
+}

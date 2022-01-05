@@ -1,0 +1,22 @@
+body{
+    background-image: url("image/contact-us.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#con{
+    width: 100%;
+    background-color: none;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    padding: 7em 1000px;
+    font-size: 25px;
+    color:wheat;
+}
+li:first-child{
+    font-size: 60px;
+    display: flex;
+    color: white;
+
+}

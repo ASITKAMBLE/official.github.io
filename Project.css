@@ -1,0 +1,62 @@
+body{
+    background-image: url("project image/V12\ Engine\ 3.png"),url("project image/V12\ Engine.png");
+    background-repeat: no-repeat,no-repeat;
+    background-size: 1500px,1500px;
+    background-position: 80px 1650px,-350px 800px;
+
+}
+
+.main{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: lacto,sans-serif;
+    text-decoration: none;
+    margin: 200px 0px 90px 633px;
+}
+.project{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    color: coral;
+    margin: 200px 20px 70px 780px ;
+}
+.project h3{
+    font-size: 20px;
+    color: black;
+    font-family: lacto,sans-serif;
+    font-weight: bold;
+    margin-left: -200px;
+    margin-top: -20px;
+}
+.Com{
+    color: black;
+    font-family: lacto,sans-serif;
+    font-weight: bold;
+    text-decoration: black;
+    font-size: 15px;
+    margin: -150px 300px 400px -200px;
+}
+.imge{
+    margin: 300px 300px 800px 200px;
+}
+.imge img{
+    margin-left: 50px;
+}
+.imge h2{
+    margin: -500px -600px 300px 30px;
+    font-family: lacto,sans-serif;
+}
+.discbreak h1{
+    color: coral;
+    font-family: lacto,sans-serif;
+    font-size: 50px;
+    margin: -300px 20px 40px 30px;
+}
+.discbreak p{
+    font-family: lacto,sans-serif;
+    font-size: 30px;
+}
+.discbreak img{ 
+    margin: -400px 200px 200px 850px;
+
+}
